@@ -18,5 +18,6 @@ python3 manage.py migrate
 python3 manage.py runserver
 
 # Lancer le front React ( Se rendre dans le fichier frontend ) :
+npm install
 npm start
 
