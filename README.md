@@ -12,5 +12,11 @@ git clone git@github.com:Noreea/ORTHOiN3D_etude_de_cas_norea.git
 git clone https://github.com/Noreea/Etude_de_cas_ORTHOin3D
 
 # Effectuer les migrations (Se rend dans le fichier backend_django et effectuer) : 
-python manage.py migrate
+python3 manage.py migrate
+
+# Lancer le server (dans le fichier backend_django) :
+python3 manage.py runserver
+
+# Lancer le front React ( Se rendre dans le fichier frontend ) :
+npm start
 
