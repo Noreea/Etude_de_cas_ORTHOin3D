@@ -1,0 +1,12 @@
+# Ignorer node_modules pour le frontend
+frontend/node_modules/
+
+# Ignorer les fichiers Python générés
+__pycache__/
+*.pyc
+
+# Ignorer la base de données SQLite
+db.sqlite3
+
+# Ignorer les configurations locales
+.env
